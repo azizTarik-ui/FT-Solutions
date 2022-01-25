@@ -1,0 +1,15 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+.cardDetails{
+    background-color: rgb(236, 199, 199);
+    border-radius: 10px;
+}
+.cardDetails:hover{
+    border: 3px solid black;
+    background-color: lightseagreen;
+}
+.cardItem{
+    border-radius: 10px;
+}

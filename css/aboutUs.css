@@ -1,0 +1,29 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+.borderRadius{
+    border-radius:10px;
+    background-color: white;
+    margin: 0 0 0 0;
+    /* width:200px */
+}
+.details, h4, .service-heading{
+    color: #1d065cef;
+    font-weight: 600;
+}
+.details h4, p{
+    margin: 0 0 0 20px;
+}
+.details p, .card-text{
+    color: gray;
+}
+.cardItem{
+    margin: 20px 0 0 20px;
+    padding: 5px;
+    height: 200px;
+    border-radius: 10px;
+}
+.card-title{
+    color: #1d065cef;
+}
